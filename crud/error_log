@@ -1,0 +1,2 @@
+[16-Jun-2021 09:58:20 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3748 bytes) in /home/nejatcodefactory/public_html/FE21-CR11-YasNejat/crud/index.php on line 32
+[16-Jun-2021 09:59:45 UTC] PHP Fatal error:  Allowed memory size of 262144 bytes exhausted (tried to allocate 3748 bytes) in /home/nejatcodefactory/public_html/FE21-CR11-YasNejat/crud/index.php on line 32
